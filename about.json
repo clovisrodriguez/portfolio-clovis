@@ -1,0 +1,400 @@
+{
+  "name": "Clovis",
+  "description": "Web UI developer",
+  "roles": [
+    "Front End Developer",
+    "Full Stack Developer",
+    "CTO"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bmt19f9fus99"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-08-14T17:09:56.390Z",
+        "updatedAt": "2020-08-14T18:07:22.304Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/clovisrodriguez",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bmt19f9fus99"
+          }
+        },
+        "id": "3DpgtG8qI8QCWyEAuME4Ku",
+        "type": "Entry",
+        "createdAt": "2020-08-14T17:10:01.722Z",
+        "updatedAt": "2020-08-14T18:08:49.218Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Medium",
+        "url": "https://medium.com/@clovis.rodriguez_48957",
+        "fontAwesomeIcon": "medium"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bmt19f9fus99"
+          }
+        },
+        "id": "4J6WFTjoMUCmQKuKAaOsqE",
+        "type": "Entry",
+        "createdAt": "2020-08-14T17:09:59.431Z",
+        "updatedAt": "2020-08-14T22:28:12.280Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Twitter",
+        "url": "https://twitter.com/ClovisRodrguez?s=08",
+        "fontAwesomeIcon": "twitter"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "bmt19f9fus99"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-08-14T17:09:49.341Z",
+      "updatedAt": "2020-08-14T22:17:05.918Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 3,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "clovis picture",
+      "description": "Clovis Profile",
+      "file": {
+        "url": "//images.ctfassets.net/bmt19f9fus99/6nf3rNaaVaUqYcoAcciSeC/18a9fb8c9f950d64a78d9f9bc14ed6d2/square-pick.jpg",
+        "details": {
+          "size": 2440353,
+          "image": {
+            "width": 2916,
+            "height": 2916
+          }
+        },
+        "fileName": "square-pick.jpg",
+        "contentType": "image/jpeg"
+      }
+    }
+  },
+  "aboutMe": "Passionate by tech, Front End Developer working for Globant, Javascript coder creating applications that use react, react-native and REST services in Nodejs, also I really like use serverless architecture for projects using AWS services like lambda functions, API gateway, and dynamoDB, always looking for new challenges, help my teammates and any other soul that wants to start a journey in tech careers.",
+  "mediumUser": "@clovis.rodriguez_48957",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bmt19f9fus99"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2020-08-14T17:10:03.412Z",
+        "updatedAt": "2020-08-15T01:47:07.969Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Rappi Inc",
+        "publishedDate": "2018-12-18T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "bmt19f9fus99"
+              }
+            },
+            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "type": "Asset",
+            "createdAt": "2020-08-14T17:09:50.335Z",
+            "updatedAt": "2020-08-15T02:06:08.438Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 5,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Rappi Logo",
+            "description": "Rappi Logo",
+            "file": {
+              "url": "//images.ctfassets.net/bmt19f9fus99/u3Um4zkMrAaQioyq4oSIW/884d40120fd5ef368e3f36a758d3c708/rappi.png",
+              "details": {
+                "size": 26263,
+                "image": {
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              "fileName": "rappi.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "none",
+        "description": "Front end developer at Rappi Aliados",
+        "projectUrl": "https://aliados.rappi.com/login",
+        "type": "Desktop - Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bmt19f9fus99"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2020-08-14T17:10:04.338Z",
+        "updatedAt": "2020-08-15T01:46:39.746Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "ESPN",
+        "publishedDate": "2016-09-01T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "bmt19f9fus99"
+              }
+            },
+            "id": "6rkOXCpyvuekYIgy6U6gGu",
+            "type": "Asset",
+            "createdAt": "2020-08-14T17:09:51.344Z",
+            "updatedAt": "2020-08-15T02:06:44.736Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 3,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "ESPN logo",
+            "description": "Web UI (Front end) at ESPN fantasy Sports",
+            "file": {
+              "url": "//images.ctfassets.net/bmt19f9fus99/6rkOXCpyvuekYIgy6U6gGu/f18a9234c45cbceb717fb7fcf9e1a77f/espn.png",
+              "details": {
+                "size": 7219,
+                "image": {
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              "fileName": "espn.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "none",
+        "description": "Web UI Developer (Front-end) at ESPN fantasy Sports",
+        "projectUrl": "https://www.espn.com/fantasy/football/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "bmt19f9fus99"
+          }
+        },
+        "id": "5paxSRHbAkmgMc4WSW8S66",
+        "type": "Entry",
+        "createdAt": "2020-08-14T17:10:05.363Z",
+        "updatedAt": "2020-08-15T01:46:19.990Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "DirecTV GO",
+        "publishedDate": "2020-07-01T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "bmt19f9fus99"
+              }
+            },
+            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "type": "Asset",
+            "createdAt": "2020-08-14T17:09:48.369Z",
+            "updatedAt": "2020-08-15T02:07:20.778Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 3,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "DirecTV",
+            "description": "Logo from DirecTV",
+            "file": {
+              "url": "//images.ctfassets.net/bmt19f9fus99/3AorRmtWOsGQ4o8gK0YWKG/a1f4c327f3c8249ac624d71c2e4f60bf/directv.png",
+              "details": {
+                "size": 6055,
+                "image": {
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              "fileName": "directv.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "none",
+        "description": "Front end developer at DirecTV GO Private streaming platform",
+        "projectUrl": "https://www.directv.com.co/",
+        "type": "Web"
+      }
+    }
+  ]
+}
