@@ -1,9 +1,13 @@
 const colors = require('./colors');
 const about = require('./about.json');
 
-require('dotenv').config();
-
-const { ACCESS_TOKEN, SPACE_ID, ANALYTICS_ID, DETERMINISTIC } = process.env;
+const {
+  ACCESS_TOKEN,
+  SPACE_ID,
+  ANALYTICS_ID,
+  DETERMINISTIC,
+  HUBSPOT_ID,
+} = process.env;
 
 const plugins = [
   'gatsby-plugin-react-helmet',
@@ -42,6 +46,17 @@ if (ANALYTICS_ID) {
     resolve: 'gatsby-plugin-google-analytics',
     options: {
       trackingId: ANALYTICS_ID,
+    },
+  });
+}
+
+if (HUBSPOT_ID) {
+  plugins.push({
+    resolve: 'gatsby-plugin-hubspot',
+    options: {
+      trackingCode: HUBSPOT_ID,
+      respectDNT: true,
+      productionOnly: true,
     },
   });
 }
